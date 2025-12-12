@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Document</title>
+</head>
+<body>
+    <b>Navigation:</b>
+    <nav>
+    <ul>
+    <li><a href="index.html">Home</a></li></ul>
+    <ul>
+    <li><a href="timetable.html">Time-Table</a></li></ul>
+    <ul>
+    <li><a href="my cv.html">My CV</a></li>
+  </ul>
+</nav>
+    <h1><center> WELCOME TO MY WEBSITE</center> </h1>
+    <h2><center> PRODUCT PAGE</center> </h2>
+   <b>Product Name:</b> TimeX Watches
+    <h2> TimeX - Elevate Your Time </h2>
+
+Welcome to TimeX, the premier destination for luxury smartwatches that seamlessly blend style,
+innovation, and functionality. Our mission is to empower individuals to live their best lives,
+whether they're fitness enthusiasts, busy professionals, or simply those who appreciate the
+finer things in life.
+
+<h2>Our Story</h2>
+
+At TimeX, we're passionate about creating watches that inspire and delight. Our team of expert designers, engineers, and craftsmen are dedicated to pushing the boundaries of watchmaking, combining cutting-edge technology with timeless design principles. We're committed to delivering exceptional quality, precision, and style, ensuring every TimeX watch is a masterpiece.
+
+<h2>Collections</h2>
+
+Explore our curated collections, each carefully crafted to meet the unique needs and tastes 
+of our discerning customers:<br><br>
+
+<b>- Sport:</b> Designed for the active individual, with rugged durability and advanced fitness
+features. Our Sport collection is perfect for those who push their limits and demand more from
+their watch.<br>
+<b>- Classic:</b> Timeless design meets modern technology, perfect for formal and casual occasions.
+Our Classic collection is designed for those who appreciate understated elegance and 
+sophistication.<br>
+<b>- Premium:</b> Luxury meets innovation, with premium materials and exclusive features.
+Our Premium collection is the ultimate expression of style and sophistication, perfect 
+for special occasions or everyday wear.<br>
+
+<h2>Key Features</h2>
+
+<b>- Heart Rate Monitoring:</b> Track your heart rate in real-time, perfect for fitness 
+enthusiasts and health-conscious individuals. Our advanced heart rate monitoring system 
+provides continuous tracking, allowing you to optimize your workouts and stay within your 
+target zones.<br>
+<b>- GPS Tracking:</b> Explore new routes and track your workouts with precision GPS. 
+Whether you're running, cycling, or hiking, our watches provide accurate distance, pace, 
+and route tracking.<br>
+<b>- Customizable Watch Faces:</b> Personalize your watch to match your style, with a wide range 
+of faces and straps to choose from. From sleek and modern to classic and elegant, our watch faces 
+are designed to complement your unique taste.<br>
+<b>- Notifications and Music Control:</b> Stay connected on-the-go, with notifications and music control at your fingertips. Receive alerts, emails, and social media notifications, and control your music playlists with ease.
+
+<h2>Why Choose TimeX?</h2>
+
+<b>- Style Meets Function:</b> Our watches are designed to make a statement, while providing 
+advanced features to keep up with your lifestyle. From the boardroom to the gym, our watches are 
+the perfect accessory.<br>
+<b>- Quality Assurance:</b> We prioritize quality and craftsmanship, ensuring every watch meets 
+our high standards. Our watches are built to last, with premium materials and expert construction.<br>
+<b>- Innovative Technology:</b> Stay ahead of the curve with our cutting-edge smartwatch technology. Our watches are designed to keep you connected, fit, and fashionable, with features like heart rate monitoring, GPS tracking, and more.
+
+<h2>Customer Testimonials</h2>
+
+"TimeX has revolutionized my fitness routine. The heart rate monitoring is incredibly accurate, 
+and the watch face is so stylish!" - Rohan, fitness enthusiast.<br><br>
+
+"I love my TimeX watch! It's the perfect accessory for work and play. The notifications are so 
+convenient, and the battery life is amazing." - Aisha, busy professional
+
+<h2>Join the TimeX Community</h2>
+
+Stay connected with us on social media and join the TimeX community. Share your TimeX moments, 
+showcase your style, and be the first to know about new collections, promotions, and events.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cwm8740aq0Y?si=nYRn7QCDaHSHZjtO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m16!1m11!1m3!1d3!2d67.0864031!3d24.9325093!2m2!1f0!2f90!3m2!1i1024!2i768!4f75!3m3!1m2!1s0x3eb33f1c17f56277%3A0x254fb554a64a9779!2sInternational%20Watch%20Company%20-%20LuckyOne%20Mall!4v1765309683832" width="600" height="450" style="border:0;" 
+allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+<h2>Get Yours Today!</h2>
+
+Explore our collections, find your perfect watch, and experience the art of timekeeping redefined.
+<!-- Header Section -->
+<header>
+  <nav>
+    <ul>
+      <li><a href="contact.html">Contact</a></li>
+    </ul>
+  </nav>
+</header>
+
+<!-- Hero Section -->
+<section class="hero">
+  <h1>TimeX Sport</h1>
+  <p>Our latest collection, designed for the active individual.</p>
+  <button>Buy Now</button>
+</section>
+
+<!-- Features Section -->
+<section class="features">
+  <h2>Key Features:</h2>
+  <ul>
+    <li>Heart Rate Monitoring</li>
+    <li>GPS Tracking</li>
+    <li>Customizable Watch Faces</li>
+    <li>Notifications and Music Control</li>
+  </ul>
+</section>
+
+<!-- Product Details Section -->
+<section class="product-details">
+  <h2>Product Details:</h2>
+  <p>Water-resistant up to 50 meters</p>
+  <p>Battery life up to 5 days</p>
+  <p>Compatible with iOS and Android devices</p>
+</section>
+
+<!-- Customer Reviews Section -->
+<section class="customer-reviews">
+  <h2>Customer Reviews:</h2>
+  <p>"I'm loving my TimeX Sport! The heart rate monitoring is so accurate and the watch face is super stylish." - Rohan, 5/5 stars</p>
+</section>
+
+<!-- Call to Action Section -->
+<section class="call-to-action">
+  <h2>Get Yours Today!</h2>
+  <button>Buy Now</button>
+</section>
+
+<!-- Footer Section -->
+<footer>
+  <p>Copyright TimeX</p>
+  <p>Terms and Conditions</p>
+  <p>Privacy Policy</p>
+</footer>
+</body>
+</html>
